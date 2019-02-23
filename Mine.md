@@ -17,6 +17,5 @@ page_sections:
     content: mcfgmgfmc
   col_3:
     content: fgmcgfmcgfm
-published: false
 
 ---
